@@ -1,0 +1,57 @@
+2019-03-24 21:37:23,795 ERROR main                             - 
+Modules that could not install(Mainly due to module dependency not satisfied.)(2) >>>>>>>>
+[com.example.service-consumer] depends on [com.example.service-provider], but the latter can not be resolved.
+
+2019-03-24 21:37:23,795 ERROR main                             - Install Spring Context got an error.
+com.alipay.sofa.isle.deployment.DeploymentException: Modules that could not install(Mainly due to module dependency not satisfied.)(2) >>>>>>>>
+[com.example.service-consumer] depends on [com.example.service-provider], but the latter can not be resolved.
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.outputModulesMessage(SpringContextInstallStage.java:124)
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.doProcess(SpringContextInstallStage.java:68)
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.doProcess(SpringContextInstallStage.java:60)
+	at com.alipay.sofa.isle.stage.AbstractPipelineStage.process(AbstractPipelineStage.java:45)
+	at com.alipay.sofa.isle.stage.DefaultPipelineContext.process(DefaultPipelineContext.java:31)
+	at com.alipay.sofa.isle.spring.listener.SofaModuleContextRefreshedListener.onApplicationEvent(SofaModuleContextRefreshedListener.java:55)
+	at com.alipay.sofa.isle.spring.listener.SofaModuleContextRefreshedListener.onApplicationEvent(SofaModuleContextRefreshedListener.java:43)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:398)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:355)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:882)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:161)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.example.sofabootrun.SofaBootRunApplication.main(SofaBootRunApplication.java:10)
+2019-03-24 21:37:23,795 ERROR main                             - process pipeline error
+com.alipay.sofa.isle.deployment.DeploymentException: Install Spring Context got an error.
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.doProcess(SpringContextInstallStage.java:63)
+	at com.alipay.sofa.isle.stage.AbstractPipelineStage.process(AbstractPipelineStage.java:45)
+	at com.alipay.sofa.isle.stage.DefaultPipelineContext.process(DefaultPipelineContext.java:31)
+	at com.alipay.sofa.isle.spring.listener.SofaModuleContextRefreshedListener.onApplicationEvent(SofaModuleContextRefreshedListener.java:55)
+	at com.alipay.sofa.isle.spring.listener.SofaModuleContextRefreshedListener.onApplicationEvent(SofaModuleContextRefreshedListener.java:43)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:398)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:355)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:882)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:161)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.example.sofabootrun.SofaBootRunApplication.main(SofaBootRunApplication.java:10)
+Caused by: com.alipay.sofa.isle.deployment.DeploymentException: Modules that could not install(Mainly due to module dependency not satisfied.)(2) >>>>>>>>
+[com.example.service-consumer] depends on [com.example.service-provider], but the latter can not be resolved.
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.outputModulesMessage(SpringContextInstallStage.java:124)
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.doProcess(SpringContextInstallStage.java:68)
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.doProcess(SpringContextInstallStage.java:60)
+	... 19 common frames omitted

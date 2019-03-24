@@ -1,0 +1,411 @@
+2019-03-24 20:51:28,849 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 20:51:30,631 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 20:51:30,631 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 20:51:30,638 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 20:51:31,308 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 20:51:31,308 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 20:51:31,308 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 20:51:31,308 INFO  main                             - 
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2019-03-24 20:51:31,319 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-24 20:51:31,319 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-24 20:51:31,319 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-03-24 20:51:31,319 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-24 20:53:05,852 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 20:53:07,368 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 20:53:07,368 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 20:53:07,378 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 20:53:07,938 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 20:53:07,938 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 20:53:07,938 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 20:53:07,948 INFO  main                             - 
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2019-03-24 20:53:07,952 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-24 20:53:07,952 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-24 20:53:07,952 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-03-24 20:53:07,952 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-24 20:54:19,981 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 20:54:21,608 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 20:54:21,608 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 20:54:21,608 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 20:54:22,208 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 20:54:22,208 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 20:54:22,208 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 20:54:22,208 INFO  main                             - 
+All activated module list(0) >>>>>>>
+
+Modules that could install(0) >>>>>>>
+
+2019-03-24 20:54:22,223 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-24 20:54:22,223 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-24 20:54:22,223 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-03-24 20:54:22,223 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-24 21:06:14,459 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 21:06:15,997 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 21:06:15,997 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:06:15,997 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:06:16,497 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 21:06:16,607 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 21:06:16,607 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 21:06:16,607 INFO  main                             - 
+All activated module list(1) >>>>>>>
+  └─ com.example.service-provider
+
+Modules that could install(1) >>>>>>>
+  └─ com.example.service-provider
+
+2019-03-24 21:06:16,621 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-24 21:06:16,621 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-24 21:06:16,621 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-03-24 21:06:16,621 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-24 21:07:24,418 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 21:07:25,941 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 21:07:25,941 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:07:25,947 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:07:26,517 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 21:07:26,521 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 21:07:26,521 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 21:07:26,527 INFO  main                             - 
+All activated module list(1) >>>>>>>
+  └─ com.example.service-provider
+
+Modules that could install(1) >>>>>>>
+  └─ com.example.service-provider
+
+2019-03-24 21:07:26,531 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-24 21:07:26,531 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-24 21:07:26,531 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-03-24 21:07:26,531 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-24 21:11:47,757 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 21:11:48,970 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 21:11:48,970 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:11:48,970 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:11:49,317 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 21:11:49,327 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 21:11:49,327 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 21:11:49,327 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ com.example.service-consumer
+  └─ com.example.service-provider
+
+Modules that could install(2) >>>>>>>
+  ├─ com.example.service-provider
+  └─ com.example.service-consumer
+
+2019-03-24 21:11:49,327 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-24 21:11:49,327 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-24 21:11:49,327 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-03-24 21:11:49,327 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-24 21:18:16,905 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 21:18:18,746 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 21:18:18,746 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:18:18,746 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:18:19,175 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 21:18:19,185 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 21:18:19,185 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 21:18:19,186 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ com.example.service-consumer
+  └─ com.example.service-provider
+
+Modules that could install(2) >>>>>>>
+  ├─ com.example.service-provider
+  └─ com.example.service-consumer
+
+2019-03-24 21:18:19,189 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-24 21:18:19,189 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-24 21:18:19,189 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-03-24 21:18:19,189 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-24 21:37:22,239 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 21:37:23,446 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 21:37:23,446 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:37:23,446 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:37:23,788 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 21:37:23,795 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 21:37:23,795 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 21:37:23,795 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ com.alipay.sofa.service-provider
+  └─ com.example.service-consumer
+
+Modules that could install(1) >>>>>>>
+  └─ com.alipay.sofa.service-provider
+
+2019-03-24 21:37:23,795 ERROR main                             - 
+Modules that could not install(Mainly due to module dependency not satisfied.)(2) >>>>>>>>
+[com.example.service-consumer] depends on [com.example.service-provider], but the latter can not be resolved.
+
+2019-03-24 21:37:23,795 ERROR main                             - Install Spring Context got an error.
+com.alipay.sofa.isle.deployment.DeploymentException: Modules that could not install(Mainly due to module dependency not satisfied.)(2) >>>>>>>>
+[com.example.service-consumer] depends on [com.example.service-provider], but the latter can not be resolved.
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.outputModulesMessage(SpringContextInstallStage.java:124)
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.doProcess(SpringContextInstallStage.java:68)
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.doProcess(SpringContextInstallStage.java:60)
+	at com.alipay.sofa.isle.stage.AbstractPipelineStage.process(AbstractPipelineStage.java:45)
+	at com.alipay.sofa.isle.stage.DefaultPipelineContext.process(DefaultPipelineContext.java:31)
+	at com.alipay.sofa.isle.spring.listener.SofaModuleContextRefreshedListener.onApplicationEvent(SofaModuleContextRefreshedListener.java:55)
+	at com.alipay.sofa.isle.spring.listener.SofaModuleContextRefreshedListener.onApplicationEvent(SofaModuleContextRefreshedListener.java:43)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:398)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:355)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:882)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:161)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.example.sofabootrun.SofaBootRunApplication.main(SofaBootRunApplication.java:10)
+2019-03-24 21:37:23,795 ERROR main                             - process pipeline error
+com.alipay.sofa.isle.deployment.DeploymentException: Install Spring Context got an error.
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.doProcess(SpringContextInstallStage.java:63)
+	at com.alipay.sofa.isle.stage.AbstractPipelineStage.process(AbstractPipelineStage.java:45)
+	at com.alipay.sofa.isle.stage.DefaultPipelineContext.process(DefaultPipelineContext.java:31)
+	at com.alipay.sofa.isle.spring.listener.SofaModuleContextRefreshedListener.onApplicationEvent(SofaModuleContextRefreshedListener.java:55)
+	at com.alipay.sofa.isle.spring.listener.SofaModuleContextRefreshedListener.onApplicationEvent(SofaModuleContextRefreshedListener.java:43)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:398)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:355)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:882)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:161)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.example.sofabootrun.SofaBootRunApplication.main(SofaBootRunApplication.java:10)
+Caused by: com.alipay.sofa.isle.deployment.DeploymentException: Modules that could not install(Mainly due to module dependency not satisfied.)(2) >>>>>>>>
+[com.example.service-consumer] depends on [com.example.service-provider], but the latter can not be resolved.
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.outputModulesMessage(SpringContextInstallStage.java:124)
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.doProcess(SpringContextInstallStage.java:68)
+	at com.alipay.sofa.isle.stage.SpringContextInstallStage.doProcess(SpringContextInstallStage.java:60)
+	... 19 common frames omitted
+2019-03-24 21:38:54,346 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 21:38:55,548 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 21:38:55,548 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:38:55,548 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:38:55,926 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 21:38:55,936 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 21:38:55,936 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 21:38:55,936 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ com.alipay.sofa.service-consumer
+  └─ com.alipay.sofa.service-provider
+
+Modules that could install(2) >>>>>>>
+  ├─ com.alipay.sofa.service-provider
+  └─ com.alipay.sofa.service-consumer
+
+2019-03-24 21:38:55,936 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-24 21:38:55,936 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-24 21:38:55,936 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-03-24 21:38:55,936 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-24 21:46:13,062 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 21:46:14,445 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 21:46:14,445 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:46:14,454 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:46:14,815 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 21:46:14,815 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 21:46:14,815 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 21:46:14,815 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ com.alipay.sofa.service-consumer
+  └─ com.alipay.sofa.service-provider
+
+Modules that could install(2) >>>>>>>
+  ├─ com.alipay.sofa.service-provider
+  └─ com.alipay.sofa.service-consumer
+
+2019-03-24 21:46:14,825 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-24 21:46:14,825 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-24 21:46:14,825 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-03-24 21:46:14,825 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-24 21:47:35,315 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 21:47:36,495 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 21:47:36,495 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:47:36,495 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:47:36,855 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 21:47:36,855 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 21:47:36,855 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 21:47:36,855 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ com.alipay.sofa.service-consumer
+  └─ com.alipay.sofa.service-provider
+
+Modules that could install(2) >>>>>>>
+  ├─ com.alipay.sofa.service-provider
+  └─ com.alipay.sofa.service-consumer
+
+2019-03-24 21:47:36,865 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-24 21:47:36,865 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-24 21:47:36,865 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-03-24 21:47:36,865 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-24 21:48:39,747 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 21:48:40,958 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 21:48:40,958 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:48:40,961 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:48:41,315 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 21:48:41,315 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 21:48:41,315 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 21:48:41,325 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ com.alipay.sofa.service-consumer
+  └─ com.alipay.sofa.service-provider
+
+Modules that could install(2) >>>>>>>
+  ├─ com.alipay.sofa.service-provider
+  └─ com.alipay.sofa.service-consumer
+
+2019-03-24 21:48:41,325 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-24 21:48:41,325 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-24 21:48:41,325 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-03-24 21:48:41,325 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-24 21:49:53,115 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 21:49:54,363 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 21:49:54,363 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:49:54,365 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:49:54,715 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 21:49:54,715 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 21:49:54,715 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 21:49:54,715 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ com.example.service-consumer
+  └─ com.example.service-provider
+
+Modules that could install(2) >>>>>>>
+  ├─ com.example.service-provider
+  └─ com.example.service-consumer
+
+2019-03-24 21:49:54,725 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-24 21:49:54,725 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-24 21:49:54,725 INFO  main                             - 
+Spring context initialize success module list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(0) >>>>>>> [totalTime = 0 ms, realTime = 0 ms]
+
+2019-03-24 21:49:54,725 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-24 21:53:45,506 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-24 21:53:46,735 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-24 21:53:46,735 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:53:46,735 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:53:47,101 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-24 21:53:47,104 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-24 21:53:47,104 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-24 21:53:47,104 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ com.example.service-consumer
+  └─ com.example.service-provider
+
+Modules that could install(2) >>>>>>>
+  ├─ com.example.service-provider
+  └─ com.example.service-consumer
+
+2019-03-24 21:53:47,104 INFO  main                             - Start install demos module: com.example.service-provider
+2019-03-24 21:53:47,285 INFO  main                             - Start install demos module: com.example.service-consumer
+2019-03-24 21:53:47,308 INFO  sofa-module-start-com.example.service-provider - Begin refresh Spring Application Context of module com.example.service-provider of application demo.
+2019-03-24 21:53:47,325 INFO  sofa-module-start-com.example.service-provider - Registering component: service:com.example.servicefacade.SampleJvmService:annotationImpl
+2019-03-24 21:53:47,325 INFO  sofa-module-start-com.example.service-provider -  <<PreOut Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:53:47,325 INFO  sofa-module-start-com.example.service-provider -  <<PreOut Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:53:47,325 INFO  sofa-module-start-com.example.service-provider -  <<Out Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:53:47,325 INFO  sofa-module-start-com.example.service-provider -  <<Out Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-24 21:53:47,325 INFO  sofa-module-start-com.example.service-provider - Register Service - com.example.servicefacade.SampleJvmService:annotationImpl
+2019-03-24 21:53:47,335 INFO  sofa-module-start-com.example.service-consumer - Begin refresh Spring Application Context of module com.example.service-consumer of application demo.
+2019-03-24 21:53:49,945 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-24 21:53:49,945 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-24 21:53:49,955 INFO  main                             - 
+Spring context initialize success module list(2) >>>>>>> [totalTime = 2637 ms, realTime = 2637 ms]
+  ├─ com.example.service-provider [27 ms]
+  │    `---E:\JAVA\sofa\sofastudy\service-provider\target\classes\META-INF\spring\service-provide.xml
+  └─ com.example.service-consumer [2610 ms]
+       `---E:\JAVA\sofa\sofastudy\service-consumer\target\classes\META-INF\spring\service-consumer.xml
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(2) >>>>>>> [totalTime = 2637 ms, realTime = 2637 ms]
+  ├─ com.example.service-provider [27 ms]
+  └─ com.example.service-consumer [2610 ms]
+       `---com.example.sofabootrun.JvmServiceConsumer (consumer)	[2600 ms]
+
+2019-03-24 21:53:49,955 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
