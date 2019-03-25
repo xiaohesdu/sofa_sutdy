@@ -12,3 +12,9 @@
 2019-03-24 21:48:39,705 INFO  main                             - SOFABoot Infrastructure Starting!
 2019-03-24 21:49:53,044 INFO  main                             - SOFABoot Infrastructure Starting!
 2019-03-24 21:53:45,454 INFO  main                             - SOFABoot Infrastructure Starting!
+2019-03-25 14:53:12,941 INFO  main                             - SOFABoot Infrastructure Starting!
+2019-03-25 15:02:53,370 INFO  main                             - SOFABoot Infrastructure Starting!
+2019-03-25 15:03:04,256 INFO  http-nio-18080-exec-2            - Loading properties file from URL [jar:file:/C:/Users/gonghe.hogan/.m2/repository/com/alipay/sofa/runtime-sofa-boot-starter/3.1.3/runtime-sofa-boot-starter-3.1.3.jar!/META-INF/sofa.versions.properties]
+2019-03-25 15:03:04,256 INFO  http-nio-18080-exec-2            - Loading properties file from URL [jar:file:/C:/Users/gonghe.hogan/.m2/repository/com/alipay/sofa/isle-sofa-boot-starter/3.1.3/isle-sofa-boot-starter-3.1.3.jar!/META-INF/sofa.versions.properties]
+2019-03-25 15:03:04,257 INFO  http-nio-18080-exec-2            - Loading properties file from URL [jar:file:/C:/Users/gonghe.hogan/.m2/repository/com/alipay/sofa/healthcheck-sofa-boot-starter/3.1.3/healthcheck-sofa-boot-starter-3.1.3.jar!/META-INF/sofa.versions.properties]
+2019-03-25 15:03:04,257 INFO  http-nio-18080-exec-2            - Loading properties file from URL [jar:file:/C:/Users/gonghe.hogan/.m2/repository/com/alipay/sofa/infra-sofa-boot-starter/3.1.3/infra-sofa-boot-starter-3.1.3.jar!/META-INF/sofa.versions.properties]

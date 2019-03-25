@@ -409,3 +409,87 @@ Spring bean load time cost list(2) >>>>>>> [totalTime = 2637 ms, realTime = 2637
        `---com.example.sofabootrun.JvmServiceConsumer (consumer)	[2600 ms]
 
 2019-03-24 21:53:49,955 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-25 14:53:13,016 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-25 14:53:14,603 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-25 14:53:14,603 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-25 14:53:14,605 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-25 14:53:15,089 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-25 14:53:15,099 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-25 14:53:15,099 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-25 14:53:15,100 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ com.example.service-consumer
+  └─ com.example.service-provider
+
+Modules that could install(2) >>>>>>>
+  ├─ com.example.service-provider
+  └─ com.example.service-consumer
+
+2019-03-25 14:53:15,101 INFO  main                             - Start install demos module: com.example.service-provider
+2019-03-25 14:53:15,170 INFO  main                             - Start install demos module: com.example.service-consumer
+2019-03-25 14:53:15,187 INFO  sofa-module-start-com.example.service-provider - Begin refresh Spring Application Context of module com.example.service-provider of application demo.
+2019-03-25 14:53:15,204 INFO  sofa-module-start-com.example.service-provider - Registering component: service:com.example.servicefacade.SampleJvmService:annotationImpl
+2019-03-25 14:53:15,205 INFO  sofa-module-start-com.example.service-provider -  <<PreOut Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-25 14:53:15,205 INFO  sofa-module-start-com.example.service-provider -  <<PreOut Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-25 14:53:15,205 INFO  sofa-module-start-com.example.service-provider -  <<Out Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-25 14:53:15,205 INFO  sofa-module-start-com.example.service-provider -  <<Out Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-25 14:53:15,205 INFO  sofa-module-start-com.example.service-provider - Register Service - com.example.servicefacade.SampleJvmService:annotationImpl
+2019-03-25 14:53:15,209 INFO  sofa-module-start-com.example.service-consumer - Begin refresh Spring Application Context of module com.example.service-consumer of application demo.
+2019-03-25 14:53:15,225 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-25 14:53:15,225 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-25 14:53:15,225 INFO  main                             - 
+Spring context initialize success module list(2) >>>>>>> [totalTime = 37 ms, realTime = 38 ms]
+  ├─ com.example.service-provider [21 ms]
+  │    `---E:\sofa\sofa_sutdy\service-provider\target\classes\META-INF\spring\service-provide.xml
+  └─ com.example.service-consumer [16 ms]
+       `---E:\sofa\sofa_sutdy\service-consumer\target\classes\META-INF\spring\service-consumer.xml
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(2) >>>>>>> [totalTime = 37 ms, realTime = 38 ms]
+  ├─ com.example.service-provider [21 ms]
+  └─ com.example.service-consumer [16 ms]
+
+2019-03-25 14:53:15,226 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
+2019-03-25 15:02:53,430 INFO  main                             - SOFABoot Runtime Starting!
+2019-03-25 15:02:54,782 INFO  main                             - Registering component: reference:com.example.servicefacade.SampleJvmService:annotationImpl#414599042
+2019-03-25 15:02:54,782 INFO  main                             -  >>In Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-25 15:02:54,784 INFO  main                             -  >>In Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-25 15:02:55,320 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo Start +++++++++++++++++
+2019-03-25 15:02:55,324 INFO  main                             - ++++++++++++++++++ ModelCreatingStage of demo End +++++++++++++++++
+2019-03-25 15:02:55,324 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo Start +++++++++++++++++
+2019-03-25 15:02:55,325 INFO  main                             - 
+All activated module list(2) >>>>>>>
+  ├─ com.example.service-consumer
+  └─ com.example.service-provider
+
+Modules that could install(2) >>>>>>>
+  ├─ com.example.service-provider
+  └─ com.example.service-consumer
+
+2019-03-25 15:02:55,326 INFO  main                             - Start install demos module: com.example.service-provider
+2019-03-25 15:02:55,390 INFO  main                             - Start install demos module: com.example.service-consumer
+2019-03-25 15:02:55,404 INFO  sofa-module-start-com.example.service-provider - Begin refresh Spring Application Context of module com.example.service-provider of application demo.
+2019-03-25 15:02:55,421 INFO  sofa-module-start-com.example.service-provider - Registering component: service:com.example.servicefacade.SampleJvmService:annotationImpl
+2019-03-25 15:02:55,421 INFO  sofa-module-start-com.example.service-provider -  <<PreOut Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-25 15:02:55,421 INFO  sofa-module-start-com.example.service-provider -  <<PreOut Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-25 15:02:55,421 INFO  sofa-module-start-com.example.service-provider -  <<Out Binding [jvm] Begins - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-25 15:02:55,421 INFO  sofa-module-start-com.example.service-provider -  <<Out Binding [jvm] Ends - com.example.servicefacade.SampleJvmService:annotationImpl.
+2019-03-25 15:02:55,421 INFO  sofa-module-start-com.example.service-provider - Register Service - com.example.servicefacade.SampleJvmService:annotationImpl
+2019-03-25 15:02:55,425 INFO  sofa-module-start-com.example.service-consumer - Begin refresh Spring Application Context of module com.example.service-consumer of application demo.
+2019-03-25 15:02:55,442 INFO  main                             - ++++++++++++++++++ SpringContextInstallStage of demo End +++++++++++++++++
+2019-03-25 15:02:55,442 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo Start +++++++++++++++++
+2019-03-25 15:02:55,442 INFO  main                             - 
+Spring context initialize success module list(2) >>>>>>> [totalTime = 38 ms, realTime = 38 ms]
+  ├─ com.example.service-provider [21 ms]
+  │    `---E:\sofa\sofa_sutdy\service-provider\target\classes\META-INF\spring\service-provide.xml
+  └─ com.example.service-consumer [17 ms]
+       `---E:\sofa\sofa_sutdy\service-consumer\target\classes\META-INF\spring\service-consumer.xml
+
+Spring context initialize failed module list(0) >>>>>>>
+
+Spring bean load time cost list(2) >>>>>>> [totalTime = 38 ms, realTime = 38 ms]
+  ├─ com.example.service-provider [21 ms]
+  └─ com.example.service-consumer [17 ms]
+
+2019-03-25 15:02:55,442 INFO  main                             - ++++++++++++++++++ ModuleLogOutputStage of demo End +++++++++++++++++
